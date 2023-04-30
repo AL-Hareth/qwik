@@ -41,6 +41,7 @@ export const MEDIA = mediaObj({
       imgSrc: 'https://static.frontendmasters.com/assets/courses/2023-02-28-qwik/posterframe.webp',
       title: 'FrontendMasters: Qwik for Instant-Loading Websites & Apps',
     },
+    youtube('QwikJS course in Arabic', 'irQDABJZw5c', { playlist: 'PLJaZ4a7YGFlJIxcL0br5FPsh5f9qFKKdd' }),
   ],
   videos: [
     youtube("Qwik… the world's first O(1) JavaScript framework?", 'x2eF3YLiNhY'),
